@@ -8,3 +8,5 @@ Color references:
 - ![#3f88c5](https://placehold.it/15/3f88c5/000000?text=+) `The Hour hand (in 24-hour format)`
 - ![#e94f37](https://placehold.it/15/e94f37/000000?text=+) `The Minute hand`
 - ![#393e41](https://placehold.it/15/393e41/000000?text=+) `The Second hand`
+
+Demo: https://arbanhossain.github.io/projects/clock/
