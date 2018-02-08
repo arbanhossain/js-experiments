@@ -1,4 +1,4 @@
-This project was inspired by [this example](https://http://bl.ocks.org/mbostock/1096355) which was made with 'D3.js'. I tried making something similar. It's still incomplete (also rough around the edges). I don't think I'll work on it again any time soon.
+This project was inspired by [this example](http://bl.ocks.org/mbostock/1096355) which was made with 'D3.js'. I tried making something similar. It's still incomplete (also rough around the edges). I don't think I'll work on it again any time soon.
 
 Color references:
 
