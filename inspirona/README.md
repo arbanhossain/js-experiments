@@ -1,3 +1,3 @@
-generates quotes from a js array
+generates quotes from a javascript array
 
-Demo---> https://arbanhossain.github.io/inspirona
+Demo: https://arbanhossain.github.io/projects/inspirona
