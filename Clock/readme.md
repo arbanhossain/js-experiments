@@ -9,4 +9,4 @@ Color references:
 - ![#e94f37](https://placehold.it/15/e94f37/000000?text=+) `The Minute hand`
 - ![#393e41](https://placehold.it/15/393e41/000000?text=+) `The Second hand`
 
-Demo: https://arbanhossain.github.io/projects/clock/
+Demo: https://arbanhossain.github.io/js-experiments/Clock/

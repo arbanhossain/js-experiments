@@ -8,3 +8,5 @@ Created this as I don't like the default style of the Newtabs of the browsers I 
 - some parts of the page overlaps
 
 I don't know if I'll get time to revisit this and fix these issues. But I'll try.
+
+Demo => https://arbanhossain.github.io/js-experiments/tabbed
