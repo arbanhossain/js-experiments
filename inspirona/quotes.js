@@ -56,10 +56,6 @@ var list = [
 				"author":"John Lennon"
 			},
 			{
-				"quote":"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid",
-				"author":"from The Rythm of Life by Matthew Kelly"
-			},
-			{
 				"quote":"Education is what remains after one has forgotten what one has learned in school",
 				"author":"Albert Einstein"
 			},
