@@ -2,7 +2,7 @@ var query = localStorage.getItem("query");
 var hourC = localStorage.getItem("hourc");
 var weather;
     if(typeof(query)==='object'){
-        $.get("http://ipinfo.io", function (response) {
+        $.get("https://ipinfo.io", function (response) {
             localStorage.setItem("query", response.city);
             location.reload();
         }, "jsonp");
