@@ -60,10 +60,6 @@ var list = [
 				"author":"from The Rythm of Life by Matthew Kelly"
 			},
 			{
-				"quote":"I used to think the worst thing in life was to end up all alone , it's not ... The worst thing in life is to end up with people who make you feel all alone",
-				"author":"Robin Williams as Lance Clayton in the movie World's Greatest Dad"
-			},
-			{
 				"quote":"Education is what remains after one has forgotten what one has learned in school",
 				"author":"Albert Einstein"
 			},
