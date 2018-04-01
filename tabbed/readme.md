@@ -4,8 +4,10 @@ Created this as I don't like the default style of the Newtabs of the browsers I 
 
 ### Known Issues
 - temperature shows **null**
+- - This has to do with my algorithm for calling the YAHOO! weather api. Wait 1 hour at most after you see that null°C
 - image gets squished if the browser window is resized(or downsized?) under a certain amount
-- some parts of the page overlaps
+- - this is because the project isn't fully responsive. I need to set some media queries
+- some parts of the page overlaps(rarely happens and has to do with responsiveness(?is that the word?) of the page)
 
 I don't know if I'll get time to revisit this and fix these issues. But I'll try.
 
