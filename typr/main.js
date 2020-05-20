@@ -7,6 +7,10 @@ const getRandomNumber = (range) => {
     return Math.floor(Math.random() * Math.floor(range));
 };
 
+const getRandomLetter = () => {
+    return (' ' + letters).slice(1).replace(mainDiv.innerText, '')[getRandomNumber(ln-1)];
+};
+
 const flash = (color) => {
     body.style.backgroundColor = color;
     console.log(color);
@@ -19,9 +23,8 @@ document.addEventListener('keypress', (e) => {
     let toPress = mainDiv.innerHTML;
     if (pressed == toPress) {
         body.style.backgroundColor = 'white';
-        let letter = letters[getRandomNumber(ln)];
-        mainDiv.innerHTML = letter;
+        mainDiv.innerHTML = getRandomLetter();
     } else {
-        flash('red');
+        flash('#9fb9ff');
     }
 });
